@@ -41,6 +41,13 @@
       "password": "MTIzNDU2",
       "email": "pepw96@gmail.com",
       "id": 6
+    },
+    {
+      "clave": "12345",
+      "nombre": "Abel",
+      "password": "MTIzNA==",
+      "email": "abellozanoaznar172@gmail.com",
+      "id": 7
     }
   ],
   "pisos": [
